@@ -1,0 +1,1 @@
+A Metaclass Singleton
